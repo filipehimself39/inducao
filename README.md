@@ -1,5 +1,7 @@
 # indução
 
+![menina_na_banheira](https://user-images.githubusercontent.com/128937668/235308224-b2f715fa-b2f4-4d3e-9083-3b12889c8874.gif)
+
 ## Introdução ao pensamento matemático (*livro 2*)
 
 * Em Matemática, não basta intuir, não basta testar: é preciso demonstrar.
